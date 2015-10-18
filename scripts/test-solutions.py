@@ -2,6 +2,8 @@
 """
 Test solutions/*.ipynb
 
+Testje van de Repo als oefening
+
 Notes
 -----
   1. This script should be run from the root level "python scripts/test-solutions.py"
